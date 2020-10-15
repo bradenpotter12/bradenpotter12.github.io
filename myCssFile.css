@@ -3,9 +3,31 @@ body{
 }
 
 h1{
+    text-indent: 250px;
     color: white;
+    font-family: fantasy;
+    font-size: 36px;
+    line-height: 40px;
 }
 
 p{
-    color: green;
+    color: white;
+}
+
+img{
+    left: 40px;
+}
+
+.intro {
+    font-size: 1.3em;
+    line-height: 1.8em;
+    font-style: italic;
+    text-indent: 1.3em;
+    color: gray;
+    }
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
 }
